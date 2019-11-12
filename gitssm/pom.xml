@@ -8,5 +8,12 @@
     <artifactId>gitssm</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>4.13-beta-1</version>
+        </dependency>
+    </dependencies>
 
 </project>
